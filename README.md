@@ -1,4 +1,4 @@
-# feature_contraction_on_MNIST_example
+# Feature contraction example on MNIST dataset
 
 ### Dependencies:
 * python 3.5
