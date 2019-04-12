@@ -11,7 +11,7 @@ def plot_results(results):
 
         mean = 100-mean
 
-        plt.errorbar(range(len(mean)), mean, yerr=std, label=exp_name)
+        plt.errorbar(range(1,len(mean)+1), mean, yerr=std, label=exp_name)
 
     plt.ylabel("Test error [%]")
     plt.xlabel("Epoch")

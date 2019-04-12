@@ -57,7 +57,7 @@ def run_all_experiments(
 
 if __name__ == '__main__':
     results = run_all_experiments(
-        epochs=50,
+        epochs=100,
         number_runs=10,
         batch_size=32,
         parallel_processes=5,
