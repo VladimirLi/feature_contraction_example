@@ -37,7 +37,7 @@ If you find this idea useful, please cite our manuscript with the following info
 @inproceedings{LiM2018,
   title={Feature Contraction: New ConvNet Regularization in Image Classification},
   author={Vladimir Li and Atsuto Maki},
-  conference={British Machine Vision Conference, {BMVC} 2018, Newcastle, UK},
+  conference={British Machine Vision Conference (BMVC), Newcastle, UK},
   year={2018}
 }
 ```
