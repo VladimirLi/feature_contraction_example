@@ -30,3 +30,5 @@ When the run is done you should get a curve of mean of test accuracy over epochs
 error bars shoving the standard deviation. See example below:
 
 ![example run](Test_error.png)
+
+
