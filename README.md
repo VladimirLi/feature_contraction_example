@@ -31,13 +31,13 @@ error bars shoving the standard deviation. See example below:
 
 ![example run](Test_error.png)
 
+## Citation
 If you find this idea useful, please cite our manuscript with the following information:
-
-@inproceedings{LiM2018, 
-  author    = {Vladimir Li and Atsuto Maki}, 
-  title     = {Feature Contraction: New ConvNet Regularization in Image Classification}, 
-  booktitle = {British Machine Vision Conference 2018, {BMVC} 2018, Newcastle, UK, 2018}, 
-  pages     = {213}, 
-  year      = {2018}, 
-  url       = {http://bmvc2018.org/contents/papers/0660.pdf} 
+```
+@inproceedings{LiM2018,
+  title={Feature Contraction: New ConvNet Regularization in Image Classification},
+  author={Vladimir Li and Atsuto Maki},
+  conference={British Machine Vision Conference, {BMVC} 2018, Newcastle, UK},
+  year={2018}
 }
+```
